@@ -2,12 +2,16 @@
     background-color: blue;
     width: 300px;
     margin-left: 40px;
-      height: 200px;
+    height: 100px;
     }
     
     .hello {
     background-color: yellow;
     width: 300px;
     margin-left: 60px;
-      height: 200px;
+    height: 100px;
+    }
+
+    .body-block {
+    background-color: aquamarine;
     }
